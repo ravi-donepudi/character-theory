@@ -1,5 +1,5 @@
 # Character Theory of the Symmetric Group via Sage
-Sage worksheet to construct character tables of symmetric groups by recursively inducing characters from subgroups.
+Jupyter notebook to construct character tables of symmetric groups by recursively inducing characters from subgroups.
 
 Warning: During this whole document, we assume that the characteristic of the field over which we consider representations is relatively prime to the order of the finite group in consideration. Modular representations are much more complicated to deal with.
 
