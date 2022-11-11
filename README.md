@@ -12,7 +12,6 @@ The representation theory of symmetric groups is completely understood in terms 
 3) Use Orthogonality relations between characters to decompose the induced characters in steps 2 and 3 into irreducible representations (This is the non-deterministic part. Can we prove that Young subgroups are always enough to fill the full character table of S_n?)
 
 The sage worksheet builds tools to induce and lift characters from scratch and can be modified per user need. 
-In progress is
 
 Notes: 
 1) Since the character table of the symmetric groups can be integrally realized, there is no loss of precision in calculations.
